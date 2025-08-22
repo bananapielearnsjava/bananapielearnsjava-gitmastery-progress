@@ -72,24 +72,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "clone-repo",
-    "started_at": 1755824659.821401,
-    "completed_at": 1755824662.078427,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755825079.044851,
-    "completed_at": 1755825081.303512,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "fetch-and-pull",
     "started_at": 1755825589.100704,
     "completed_at": 1755825589.545221,
